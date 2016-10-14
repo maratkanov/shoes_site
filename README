@@ -1,0 +1,2 @@
+Для запуска в локальном режиме установить переменные окружения из `helpers/debug_environment/envs`.
+В PyCharm их можно добавить в "Edit Configurations"

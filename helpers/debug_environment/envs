@@ -1,0 +1,5 @@
+export DJ_DEBUG=True
+export DJ_SECRET_KEY=el_secreto
+export LOCAL_DB_NAME=shoes
+export LOCAL_DB_USER=shoes_user
+export LOCAL_DB_PASSWORD=el_passo
